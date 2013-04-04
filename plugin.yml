@@ -1,0 +1,5 @@
+name: DeathChests
+main: me.dpedu.deathchests.DeathChests
+version: 1.0
+description: When a player dies create chests containg their items in place of the death
+commands:
